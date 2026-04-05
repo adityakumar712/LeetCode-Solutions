@@ -8,6 +8,7 @@ My DSA journey - LeetCode solutions
 | ------- | ------- |
 | [0001-two-sum](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0136-single-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0724-find-pivot-index](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
@@ -35,4 +36,8 @@ My DSA journey - LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
