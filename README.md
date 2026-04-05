@@ -10,6 +10,7 @@ My DSA journey - LeetCode solutions
 | [0015-3sum](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0136-single-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0724-find-pivot-index](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
@@ -35,6 +36,7 @@ My DSA journey - LeetCode solutions
 | ------- | ------- |
 | [0015-3sum](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
