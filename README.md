@@ -11,6 +11,7 @@ My DSA journey - LeetCode solutions
 | [0136-single-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0724-find-pivot-index](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
@@ -18,6 +19,7 @@ My DSA journey - LeetCode solutions
 | ------- | ------- |
 | [0001-two-sum](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0389-find-the-difference](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +45,7 @@ My DSA journey - LeetCode solutions
 | ------- | ------- |
 | [0015-3sum](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0389-find-the-difference](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
