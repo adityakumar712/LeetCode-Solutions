@@ -14,6 +14,7 @@ My DSA journey - LeetCode solutions
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0724-find-pivot-index](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -21,6 +22,7 @@ My DSA journey - LeetCode solutions
 | [0001-two-sum](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0389-find-the-difference](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
