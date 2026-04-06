@@ -31,6 +31,7 @@ My DSA journey - LeetCode solutions
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Math
@@ -38,6 +39,7 @@ My DSA journey - LeetCode solutions
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0069-sqrtx](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
