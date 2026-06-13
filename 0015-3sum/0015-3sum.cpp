@@ -4,38 +4,41 @@ public:
         sort(nums.begin() , nums.end());
         vector<vector<int>>result;
 
-        for(int i=0; i<nums.size(); i++){
+        for(int i=0; i<nums.size()-2; i++){
+            if(i> 0 and nums[i] == nums[i-1]){continue;}
+             int left =i+1;
+             int right = nums.size()-1;
+             int sum = -1 * nums[i];
 
-            if(i > 0 && nums[i] == nums[i-1]) continue;
+             while(left < right){
+                int s = nums[left] + nums[right];
 
-            int left = i+1;
-            int right = nums.size()-1;
-
-            while(left < right){
-                int sum = nums[i] + nums[left] + nums[right];
-
-                if(sum == 0){
-                    result.push_back({nums[i] , nums[left] , nums[right]});
-
+                if(s == sum){
+                    result.push_back({nums[i] , nums[left] , nums[right] });
                     left++;
                     right--;
 
-                     while(left < right && nums[left] == nums[left-1]) left++;
-                     while(left < right && nums[right] == nums[right+1]) right--;
-                }
+                    while(left < nums.size() and nums[left] == nums[left- 1] ){
+                        left++;
+                    }
 
-                else if(sum < 0){
-                    left++;
-                }
+                    while(right >= 0  and  nums[right] == nums[right + 1]){
+                        right--;
+                    }
 
-                else if(sum > 0){
+
+                } 
+
+                else if (s > sum){
                     right--;
                 }
-            }
 
-            
+                else{
+                    left++;
+                }
+             }
         }
-        
+    
         return result;
     }
 };
