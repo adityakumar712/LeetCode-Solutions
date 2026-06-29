@@ -13,62 +13,70 @@ public:
             }
         }
 
-        if(neg.size() == 0){
-            for(int i=0; i<pos.size(); i++){
-                pos[i] = pos[i] * pos[i];
-            }
-            return pos;
-        }
-
         if(pos.size() == 0){
             for(int i=0; i<neg.size(); i++){
-                neg[i] = neg[i]*neg[i];
+                neg[i] = neg[i] * neg[i];
             }
 
             reverse(neg.begin() , neg.end());
             return neg;
         }
 
-        for(int i=0; i<neg.size(); i++){
-            neg[i] = neg[i]*neg[i];
-        }
+        if(neg.size() == 0){
+            for(int i=0; i<pos.size(); i++){
+                pos[i] = pos[i] * pos[i];
+            }
 
-        reverse(neg.begin() , neg.end());
+            return pos;
+        }
 
         for(int i=0; i<pos.size(); i++){
-            pos[i] = pos[i] * pos[i];
-        }
+                pos[i] = pos[i] * pos[i];
+            }
 
-        int i=0 , j =0;
+        for(int i=0; i<neg.size(); i++){
+                neg[i] = neg[i] * neg[i];
+            }
+
+         reverse(neg.begin() , neg.end());
+
+
+        int i=0;
+        int j=0;
         int index = 0;
         vector<int>res(pos.size()+neg.size());
 
-        while(i<neg.size() and j<pos.size()){
-            if(neg[i] <= pos[j]){
-                res[index] = neg[i];
+        while(i< pos.size() and j< neg.size()){
+            if(pos[i] <= neg[j]){
+                res[index] = pos[i];
+                index++;
                 i++;
-                index++;
             }
-            
             else{
-                res[index] = pos[j];
-                j++;
+                res[index]=neg[j];
                 index++;
+                j++;
+
             }
         }
 
-        while(j < pos.size()){
-            res[index] = pos[j];
+        while(j < neg.size()){
+            res[index] = neg[j];
+            index++;
             j++;
-            index++;
         }
 
-        while(i < neg.size()){
-            res[index] = neg[i];
+        while(i < pos.size()){
+            res[index] = pos[i];
+            index++;
             i++;
-            index++;
+
         }
 
-        return res;
+        for(int k=0; k<res.size(); k++){
+            nums[k] = res[k];
+        }
+
+        return nums;
     }
 };
