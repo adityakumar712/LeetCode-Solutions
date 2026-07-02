@@ -18,11 +18,11 @@ public:
                     left++;
                     right--;
 
-                    while(left < nums.size() and nums[left] == nums[left- 1] ){
+                    while( left < nums.size() and nums[left] == nums[left- 1] ){
                         left++;
                     }
 
-                    while(right >= 0  and  nums[right] == nums[right + 1]){
+                    while(right >= 0 and  nums[right] == nums[right + 1]){
                         right--;
                     }
 
