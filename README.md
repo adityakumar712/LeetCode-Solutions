@@ -20,6 +20,7 @@ My DSA journey - LeetCode solutions
 | [0283-move-zeroes](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -41,12 +42,14 @@ My DSA journey - LeetCode solutions
 | [0389-find-the-difference](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Binary Search
