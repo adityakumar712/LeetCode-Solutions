@@ -1,44 +1,45 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        sort(nums.begin() , nums.end());
-        vector<vector<int>>result;
+       sort(nums.begin() , nums.end());
+       vector<vector<int>>result;
 
-        for(int i=0; i<nums.size()-2; i++){
-            if(i> 0 and nums[i] == nums[i-1]){continue;}
-             int left =i+1;
-             int right = nums.size()-1;
-             int sum = -1 * nums[i];
-
-             while(left < right){
-                int s = nums[left] + nums[right];
-
-                if(s == sum){
-                    result.push_back({nums[i] , nums[left] , nums[right] });
-                    left++;
-                    right--;
-
-                    while( left < nums.size() and nums[left] == nums[left- 1] ){
-                        left++;
-                    }
-
-                    while(right >= 0 and  nums[right] == nums[right + 1]){
-                        right--;
-                    }
+       for(int i=0; i<nums.size()-2; i++){
+        if(i > 0 && nums[i] == nums[i-1]){continue;}
 
 
-                } 
+        int sum = nums[i] * -1;
+        int left = i+1;
+        int right = nums.size()-1;
 
-                else if (s > sum){
-                    right--;
-                }
+        while(left < right){
+            int s = nums[left] + nums[right];
+            if(sum == s){
+                result.push_back({nums[i] , nums[left] , nums[right]});
+                left++;
+                right--;
+            
 
-                else{
-                    left++;
-                }
-             }
+            while(left < nums.size() && nums[left] == nums[left-1]){
+                left++;
+            }
+
+            while(right >= 0 && nums[right] == nums[right + 1] ){
+                right--;
+            }
         }
-    
-        return result;
+
+        else if(s > sum){
+            right--;
+        }
+
+        else if(s < sum){
+            left++;
+        }
+
+        }
+       }
+
+       return result;
     }
 };
