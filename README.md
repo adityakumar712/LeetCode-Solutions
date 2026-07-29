@@ -11,6 +11,7 @@ My DSA journey - LeetCode solutions
 | [0016-3sum-closest](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
@@ -94,6 +95,7 @@ My DSA journey - LeetCode solutions
 | ------- | ------- |
 | [0015-3sum](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0056-merge-intervals](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0389-find-the-difference](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
