@@ -25,6 +25,7 @@ My DSA journey - LeetCode solutions
 | [0525-contiguous-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -162,9 +163,14 @@ My DSA journey - LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0739-daily-temperatures](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
