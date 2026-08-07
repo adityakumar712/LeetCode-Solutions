@@ -55,6 +55,7 @@ My DSA journey - LeetCode solutions
 | [0560-subarray-sum-equals-k](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -125,6 +126,7 @@ My DSA journey - LeetCode solutions
 | [0389-find-the-difference](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -188,4 +190,5 @@ My DSA journey - LeetCode solutions
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 <!---LeetCode Topics End-->
