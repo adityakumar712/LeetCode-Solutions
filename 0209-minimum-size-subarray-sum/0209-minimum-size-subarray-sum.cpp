@@ -7,7 +7,7 @@ public:
        int res = INT_MAX;
 
        for(high=0; high < nums.size(); high++){
-        sum = sum + nums[high];
+        sum = sum + nums[high]; //ek ek krke add hogaand then check hoga sum >= target
 
         while(sum >= target){
             int len = high - low + 1;
