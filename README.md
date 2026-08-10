@@ -143,6 +143,7 @@ My DSA journey - LeetCode solutions
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0206-reverse-linked-list](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -197,4 +198,8 @@ My DSA journey - LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0409-longest-palindrome/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
