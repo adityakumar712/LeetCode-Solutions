@@ -38,6 +38,7 @@ My DSA journey - LeetCode solutions
 | [0986-interval-list-intersections](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0986-interval-list-intersections/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Hash Table
@@ -69,6 +70,7 @@ My DSA journey - LeetCode solutions
 | [0560-subarray-sum-equals-k](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
