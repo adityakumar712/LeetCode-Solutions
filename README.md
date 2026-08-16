@@ -88,6 +88,7 @@ My DSA journey - LeetCode solutions
 | [0009-palindrome-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
+| [2235-add-two-integers](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
