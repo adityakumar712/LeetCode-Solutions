@@ -222,4 +222,8 @@ My DSA journey - LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
