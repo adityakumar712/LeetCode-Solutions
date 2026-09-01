@@ -41,6 +41,7 @@ My DSA journey - LeetCode solutions
 | [0875-koko-eating-bananas](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0986-interval-list-intersections/) | Medium |
@@ -108,6 +109,7 @@ My DSA journey - LeetCode solutions
 | [0202-happy-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
+| [0973-k-closest-points-to-origin](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2235-add-two-integers](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -141,6 +143,7 @@ My DSA journey - LeetCode solutions
 | [0389-find-the-difference](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -190,6 +193,7 @@ My DSA journey - LeetCode solutions
 | [0240-search-a-2d-matrix-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,11 +269,13 @@ My DSA journey - LeetCode solutions
 | [0347-top-k-frequent-elements](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,4 +285,12 @@ My DSA journey - LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
