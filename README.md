@@ -35,6 +35,7 @@ My DSA journey - LeetCode solutions
 | [0525-contiguous-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
+| [0630-course-schedule-iii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0630-course-schedule-iii/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
@@ -149,6 +150,7 @@ My DSA journey - LeetCode solutions
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0502-ipo](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
+| [0630-course-schedule-iii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0630-course-schedule-iii/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -257,6 +259,7 @@ My DSA journey - LeetCode solutions
 | [0409-longest-palindrome](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0502-ipo](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
+| [0630-course-schedule-iii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0630-course-schedule-iii/) | Hard |
 | [0767-reorganize-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -284,6 +287,7 @@ My DSA journey - LeetCode solutions
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0502-ipo](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
+| [0630-course-schedule-iii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0630-course-schedule-iii/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
