@@ -122,6 +122,7 @@ My DSA journey - LeetCode solutions
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2235-add-two-integers](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -334,4 +335,8 @@ My DSA journey - LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2413-smallest-even-multiple](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 <!---LeetCode Topics End-->
