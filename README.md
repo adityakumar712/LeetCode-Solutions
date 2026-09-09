@@ -51,6 +51,7 @@ My DSA journey - LeetCode solutions
 | [1046-last-stone-weight](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -124,6 +125,7 @@ My DSA journey - LeetCode solutions
 | [0412-fizz-buzz](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2235-add-two-integers](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Two Pointers
