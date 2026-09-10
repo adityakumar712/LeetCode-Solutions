@@ -52,6 +52,7 @@ My DSA journey - LeetCode solutions
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -87,6 +88,7 @@ My DSA journey - LeetCode solutions
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@ My DSA journey - LeetCode solutions
 | [0767-reorganize-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -348,4 +351,8 @@ My DSA journey - LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
