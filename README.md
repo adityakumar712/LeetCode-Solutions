@@ -126,6 +126,7 @@ My DSA journey - LeetCode solutions
 | [0069-sqrtx](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0509-fibonacci-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -230,6 +231,7 @@ My DSA journey - LeetCode solutions
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0509-fibonacci-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -286,6 +288,7 @@ My DSA journey - LeetCode solutions
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -357,4 +360,8 @@ My DSA journey - LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
