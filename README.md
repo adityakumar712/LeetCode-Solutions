@@ -56,6 +56,7 @@ My DSA journey - LeetCode solutions
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -301,6 +302,7 @@ My DSA journey - LeetCode solutions
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
