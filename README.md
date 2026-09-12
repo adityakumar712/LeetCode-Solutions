@@ -59,6 +59,7 @@ My DSA journey - LeetCode solutions
 | [1572-matrix-diagonal-sum](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1816-truncate-sentence](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -203,6 +204,7 @@ My DSA journey - LeetCode solutions
 | [1108-defanging-an-ip-address](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1816-truncate-sentence](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Sliding Window
