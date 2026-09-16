@@ -157,6 +157,7 @@ My DSA journey - LeetCode solutions
 | [0876-middle-of-the-linked-list](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0986-interval-list-intersections/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +209,7 @@ My DSA journey - LeetCode solutions
 | [1108-defanging-an-ip-address](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1816-truncate-sentence](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
