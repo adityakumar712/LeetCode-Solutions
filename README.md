@@ -57,6 +57,7 @@ My DSA journey - LeetCode solutions
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1528-shuffle-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -209,6 +210,7 @@ My DSA journey - LeetCode solutions
 | [1108-defanging-an-ip-address](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1528-shuffle-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1816-truncate-sentence](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
