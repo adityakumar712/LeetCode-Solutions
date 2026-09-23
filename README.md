@@ -421,6 +421,7 @@ My DSA journey - LeetCode solutions
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -428,6 +429,7 @@ My DSA journey - LeetCode solutions
 | [0100-same-tree](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -438,6 +440,7 @@ My DSA journey - LeetCode solutions
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -445,4 +448,5 @@ My DSA journey - LeetCode solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0226-invert-binary-tree](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
