@@ -37,6 +37,7 @@ My DSA journey - LeetCode solutions
 | [0347-top-k-frequent-elements](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0502-ipo](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0502-ipo/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0525-contiguous-array/) | Medium |
@@ -94,6 +95,7 @@ My DSA journey - LeetCode solutions
 | [0409-longest-palindrome](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0525-contiguous-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
