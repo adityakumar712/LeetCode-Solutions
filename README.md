@@ -38,6 +38,7 @@ My DSA journey - LeetCode solutions
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0502-ipo](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0502-ipo/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0525-contiguous-array/) | Medium |
