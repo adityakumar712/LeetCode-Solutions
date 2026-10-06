@@ -22,6 +22,7 @@ My DSA journey - LeetCode solutions
 | [0066-plus-one](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -86,6 +87,7 @@ My DSA journey - LeetCode solutions
 | [0013-roman-to-integer](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0076-minimum-window-substring](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -269,6 +271,7 @@ My DSA journey - LeetCode solutions
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -446,6 +449,7 @@ My DSA journey - LeetCode solutions
 | [0101-symmetric-tree](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
@@ -487,6 +491,7 @@ My DSA journey - LeetCode solutions
 | [0101-symmetric-tree](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
