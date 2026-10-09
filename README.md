@@ -109,6 +109,7 @@ My DSA journey - LeetCode solutions
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
+| [0771-jewels-and-stones](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -242,6 +243,7 @@ My DSA journey - LeetCode solutions
 | [0692-top-k-frequent-words](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0709-to-lower-case](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0767-reorganize-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
+| [0771-jewels-and-stones](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
