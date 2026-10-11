@@ -54,6 +54,7 @@ My DSA journey - LeetCode solutions
 | [0704-binary-search](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0804-unique-morse-code-words](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -111,6 +112,7 @@ My DSA journey - LeetCode solutions
 | [0692-top-k-frequent-words](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -245,6 +247,7 @@ My DSA journey - LeetCode solutions
 | [0709-to-lower-case](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0767-reorganize-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
