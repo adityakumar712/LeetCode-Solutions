@@ -82,6 +82,7 @@ My DSA journey - LeetCode solutions
 | [1929-concatenation-of-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +261,7 @@ My DSA journey - LeetCode solutions
 | [1816-truncate-sentence](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
