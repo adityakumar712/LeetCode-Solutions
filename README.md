@@ -39,6 +39,7 @@ My DSA journey - LeetCode solutions
 | [0283-move-zeroes](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -102,6 +103,7 @@ My DSA journey - LeetCode solutions
 | [0242-valid-anagram](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
@@ -146,6 +148,7 @@ My DSA journey - LeetCode solutions
 | [0240-search-a-2d-matrix-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
@@ -190,6 +193,7 @@ My DSA journey - LeetCode solutions
 | [0283-move-zeroes](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0541-reverse-string-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -211,6 +215,7 @@ My DSA journey - LeetCode solutions
 | [0242-valid-anagram](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0389-find-the-difference](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
