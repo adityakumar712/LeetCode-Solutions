@@ -99,6 +99,7 @@ My DSA journey - LeetCode solutions
 | [0202-happy-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
@@ -207,6 +208,7 @@ My DSA journey - LeetCode solutions
 | [0169-majority-element](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -240,6 +242,7 @@ My DSA journey - LeetCode solutions
 | [0022-generate-parentheses](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
