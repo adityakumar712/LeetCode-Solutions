@@ -72,6 +72,7 @@ My DSA journey - LeetCode solutions
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -120,6 +121,7 @@ My DSA journey - LeetCode solutions
 | [1189-maximum-number-of-balloons](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +167,7 @@ My DSA journey - LeetCode solutions
 | [0973-k-closest-points-to-origin](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2235-add-two-integers](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -350,6 +353,7 @@ My DSA journey - LeetCode solutions
 | [0692-top-k-frequent-words](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
