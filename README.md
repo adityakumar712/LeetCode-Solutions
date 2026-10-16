@@ -462,6 +462,7 @@ My DSA journey - LeetCode solutions
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -474,6 +475,7 @@ My DSA journey - LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
