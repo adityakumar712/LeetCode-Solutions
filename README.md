@@ -412,6 +412,7 @@ My DSA journey - LeetCode solutions
 | [0621-task-scheduler](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0630-course-schedule-iii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0630-course-schedule-iii/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0743-network-delay-time](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
@@ -520,6 +521,7 @@ My DSA journey - LeetCode solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0743-network-delay-time](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -558,6 +560,7 @@ My DSA journey - LeetCode solutions
 | [0200-number-of-islands](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0743-network-delay-time](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -608,6 +611,7 @@ My DSA journey - LeetCode solutions
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Graph Coloring
 | Problem Name | Difficulty |
@@ -617,4 +621,12 @@ My DSA journey - LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
