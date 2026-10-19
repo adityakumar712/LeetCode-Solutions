@@ -78,6 +78,7 @@ My DSA journey - LeetCode solutions
 | [1512-number-of-good-pairs](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1816-truncate-sentence](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
@@ -157,6 +158,7 @@ My DSA journey - LeetCode solutions
 | [0704-binary-search](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -400,6 +402,7 @@ My DSA journey - LeetCode solutions
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -416,6 +419,7 @@ My DSA journey - LeetCode solutions
 | [0767-reorganize-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -523,6 +527,7 @@ My DSA journey - LeetCode solutions
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0743-network-delay-time](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -564,6 +569,7 @@ My DSA journey - LeetCode solutions
 | [0785-is-graph-bipartite](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -600,6 +606,7 @@ My DSA journey - LeetCode solutions
 | [0130-surrounded-regions](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -629,4 +636,5 @@ My DSA journey - LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
