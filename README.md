@@ -57,6 +57,7 @@ My DSA journey - LeetCode solutions
 | [0704-binary-search](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0804-unique-morse-code-words](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -156,6 +157,7 @@ My DSA journey - LeetCode solutions
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0704-binary-search](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0778-swim-in-rising-water](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -400,6 +402,7 @@ My DSA journey - LeetCode solutions
 | [0200-number-of-islands](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0994-rotting-oranges](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -417,6 +420,7 @@ My DSA journey - LeetCode solutions
 | [0692-top-k-frequent-words](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0743-network-delay-time](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -526,6 +530,7 @@ My DSA journey - LeetCode solutions
 | [0543-diameter-of-binary-tree](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0743-network-delay-time](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Binary Tree
@@ -566,6 +571,7 @@ My DSA journey - LeetCode solutions
 | [0226-invert-binary-tree](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0743-network-delay-time](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -605,6 +611,7 @@ My DSA journey - LeetCode solutions
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Euclidean Algorithm
@@ -636,5 +643,10 @@ My DSA journey - LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 <!---LeetCode Topics End-->
