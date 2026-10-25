@@ -98,6 +98,7 @@ My DSA journey - LeetCode solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0076-minimum-window-substring](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0127-word-ladder](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0141-linked-list-cycle](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -255,6 +256,7 @@ My DSA journey - LeetCode solutions
 | [0022-generate-parentheses](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0127-word-ladder](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0242-valid-anagram](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
@@ -569,6 +571,7 @@ My DSA journey - LeetCode solutions
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0127-word-ladder](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
@@ -655,4 +658,8 @@ My DSA journey - LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
