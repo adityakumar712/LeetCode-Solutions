@@ -170,6 +170,7 @@ My DSA journey - LeetCode solutions
 | [0013-roman-to-integer](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -320,6 +321,7 @@ My DSA journey - LeetCode solutions
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -471,6 +473,7 @@ My DSA journey - LeetCode solutions
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
