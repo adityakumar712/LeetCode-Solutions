@@ -31,6 +31,7 @@ My DSA journey - LeetCode solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -324,6 +325,7 @@ My DSA journey - LeetCode solutions
 | [0070-climbing-stairs](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0198-house-robber](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/adityakumar712/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
